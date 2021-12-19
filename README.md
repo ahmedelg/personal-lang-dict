@@ -3,5 +3,6 @@
 ![قاموس اللغه الشخصي](https://user-images.githubusercontent.com/46943991/146655690-73ef1c6f-eded-46cd-b2db-38314cf26a72.png)
 ![interface1](https://user-images.githubusercontent.com/46943991/146658927-cf761ea0-4d54-4d72-b7a2-37546515571e.jpg)
 ![interface3](https://user-images.githubusercontent.com/46943991/146658953-b97aca6b-532d-496e-b3cc-b142bf210e4b.jpg)
+![interface5](https://user-images.githubusercontent.com/46943991/146659055-7b22e2be-8f8b-4be0-9445-30e764fe4c65.jpg)
 
 
